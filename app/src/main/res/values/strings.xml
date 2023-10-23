@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+
+
+    <string name="my_laptop_name">Macbook Pro</string>
+
+
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+
+    <string name="q1">Avram Linkln Amerika prezdenti</string>
+    <string name="q2">1000+3658=5658</string>
+    <string name="q3">Uzbekistan 1 chi Prizdenti Islom Karimov </string>
+    <string name="q4">1654*369=610325</string>
+    <string name="q5">Uzbekiston Poytaxti Toshkent</string>
+    <string name="q6">Ozbekiston Milliy tili rus tili</string>
+    <string name="q7">Paspoortni 18 yoshda olinadi</string>
+    <string name="q8">Rossiyalik odamlara Fransuz tilida gaplashadi</string>
+    <string name="q9">Alisher Navoiy shoir gazal mulki sultoni</string>
+    <string name="q10">Ozbekiston futbool terma jamoasi butun dunyo chempyoni</string>
+
+
+</resources>
